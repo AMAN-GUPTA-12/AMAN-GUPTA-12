@@ -42,7 +42,7 @@ My name is **Aman Gupta** :raising_hand: and I am a 18 year old **Web Developer*
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">
+<img  align='right' src="https://github.com/AMAN-GUPTA-69/AMAN-GUPTA-69/blob/main/images/ninja.jpeg" height="260px" width="230px">
 
 <!-- frameworks. added api calls to compact cards -->
 
