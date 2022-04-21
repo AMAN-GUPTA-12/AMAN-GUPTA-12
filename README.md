@@ -1,33 +1,32 @@
-# I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *SeraphimCoder* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
-[![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=flat-square" alt="Ansh-Sarkar" />
+# I'm [*AMAN GUPTA*](https://www.linkedin.com/in/aman-gupta-289340228/) :sunglasses: *Web Developer & C.P* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
+[![Linkedin Badge](https://img.shields.io/badge/-AMANGUPTA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-gupta-289340228/)](https://www.linkedin.com/in/aman-gupta-289340228/) [![Gmail Badge](https://img.shields.io/badge/-amanhanu003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanhanu003@gmail.com)](mailto:amanhanu003@gmail.com) <img src="https://komarev.com/ghpvc/?username=AMAN-GUPTA-69&label=Profile%20views&color=FF8C00&style=flat-square" alt="AMAN-GUPTA-69" />
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Ansh-Sarkar/Ansh-Sarkar?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Ansh-Sarkar?style=for-the-badge">
-<!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
-Click here to go to my previous github account : [Cyclopstark](https://github.com/Cyclopstark)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AMAN-GUPTA-69?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AMAN-GUPTA-69/AMAN-GUPTA-69?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AMAN-GUPTA-69?style=for-the-badge">
+
 ## Welcome to my World :earth_asia: . . .
-My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
+My name is **Aman Gupta** :raising_hand: and I am a 18 year old **Web Developer** :zap: , **UX designer** :artist: , **learner** :lock:, **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 
-![Ansh Sarkar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ansh-sarkar&theme=react-dark&hide_border=true&area=true)
+![AMAN-GUPTA-69 Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMAN-GUPTA-69&theme=react-dark&hide_border=true&area=true)
 
 ## Who am I :point_down:?
 ```python
- from Ansh_Sarkar import personal_details
- # from Ansh_Personal import personal_ambitions
+ from Aman_Gupta import personal_details
+ # from Aman_Personal import personal_ambitions
  class WhoAmI:
- 	name = 'Ansh Sarkar'
-	current_education = "B.Tech CSE"
+ 	name = 'AMAN GUPTA'
+	current_education = "B.Tech CSSE"
 	hobbies = [
 				'Drawing',
 				'Watching Sci-Fi',
-				'Reading Sci-Fi Novels',
+				'Cricket',
 				'Learning New Programming Languages or Frameworks',
         			'Making friends ...'
 			]
 			
 	# return city name ...
 	def getCity():
-		retrun Siliguri_WestBengal_India_Asia_Earth()
+		retrun Hyderabad_Telangana_India_Asia_Earth()
 		
 	# return public ambitions ...
 	def Ambitions():
@@ -54,26 +53,12 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 <!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
-<!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
+<!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AMAN-GUPTA-69&show_icons=true&theme=dracula)-->
 
-# 
 
-![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Ansh-Sarkar&show_icons=true)
-
-#
-
-<!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-<!--<img align = 'left' src = "http://tbayes.eecs.umich.edu/_media/xukevin/visualization_dmkd_2012/newcomb_dmds.gif" height = "165px" width = "125px">-->
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sarkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-**For my previous Contributions and Commits please refer to : [Cyclopstark](https://github.com/Ansh-Sarkar)**
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
-- 🌱 I’m currently learning Algorithmic Analysis :chart_with_upwards_trend:
+- 🌱 I’m currently learning Programing Languages :chart_with_upwards_trend:
 - 👯 I’m looking to collaborate with future Entrepreneurs :scientist: with cool ideas :bomb: and projects
 - 💬 Ask me about anything , always happy to help :wink:
 - 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
@@ -85,11 +70,11 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **SeraphimCoder** and I am a 19 
 
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **anshsarkar18@gmail.**
+Feel free to shoot a mail to : **amanhanu003@gmail.**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
 
-:copyright: ReadMe Designed by Ansh Sarkar a.k.a SeraphimCoder
+:copyright: ReadMe Designed by AMAN GUPTA
 
 ##
 Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
