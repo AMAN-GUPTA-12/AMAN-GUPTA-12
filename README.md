@@ -4,7 +4,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AMAN-GUPTA-69?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AMAN-GUPTA-69/AMAN-GUPTA-69?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AMAN-GUPTA-69?style=for-the-badge">
 
 ## Welcome to my World :earth_asia: . . .
-My name is **Aman Gupta** :raising_hand: and I am a 18 year old **Web Developer** :zap: , **UX designer** :artist: , **learner** :lock:, **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
+My name is **Aman Gupta** :raising_hand: and I am a 21 year old **Web Developer** :zap: , **UX designer** :artist: , **learner** :lock:, **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 
 ![AMAN-GUPTA-69 Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMAN-GUPTA-69&theme=react-dark&hide_border=true&area=true)
