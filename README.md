@@ -1,13 +1,13 @@
 # I'm [*AMAN GUPTA*](https://www.linkedin.com/in/aman-gupta-289340228/) :sunglasses: *Web Developer & C.P* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
-[![Linkedin Badge](https://img.shields.io/badge/-AMANGUPTA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-gupta-289340228/)](https://www.linkedin.com/in/aman-gupta-289340228/) [![Gmail Badge](https://img.shields.io/badge/-amanhanu003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanhanu003@gmail.com)](mailto:amanhanu003@gmail.com) <img src="https://komarev.com/ghpvc/?username=AMAN-GUPTA-69&label=Profile%20views&color=FF8C00&style=flat-square" alt="AMAN-GUPTA-12" />
+[![Linkedin Badge](https://img.shields.io/badge/-AMANGUPTA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-gupta-289340228/)](https://www.linkedin.com/in/aman-gupta-289340228/) [![Gmail Badge](https://img.shields.io/badge/-amanhanu003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanhanu003@gmail.com)](mailto:amanhanu003@gmail.com) <img src="https://komarev.com/ghpvc/?username=AMAN-GUPTA-12&label=Profile%20views&color=FF8C00&style=flat-square" alt="AMAN-GUPTA-12" />
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AMAN-GUPTA-69?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AMAN-GUPTA-69/AMAN-GUPTA-69?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AMAN-GUPTA-69?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AMAN-GUPTA-12?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AMAN-GUPTA-12/AMAN-GUPTA-12?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AMAN-GUPTA-12?style=for-the-badge">
 
 ## Welcome to my World :earth_asia: . . .
 My name is **Aman Gupta** :raising_hand: and I am a 21 year old **Web Developer** :zap: , **UX designer** :artist: , **learner** :lock:, **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 <!--defining python code section-->
 
-![AMAN-GUPTA-69 Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMAN-GUPTA-69&theme=react-dark&hide_border=true&area=true)
+![AMAN-GUPTA-12 Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMAN-GUPTA-12&theme=react-dark&hide_border=true&area=true)
 
 ## Who am I :point_down:?
 ```python
@@ -42,7 +42,7 @@ My name is **Aman Gupta** :raising_hand: and I am a 21 year old **Web Developer*
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/AMAN-GUPTA-69/AMAN-GUPTA-69/blob/main/images/AMAN.png" height="260px" width="230px">
+<img  align='right' src="https://github.com/AMAN-GUPTA-12/AMAN-GUPTA-12/blob/main/images/AMAN.png" height="260px" width="230px">
 
 <!-- frameworks. added api calls to compact cards -->
 
